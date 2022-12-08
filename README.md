@@ -18,7 +18,7 @@ adquiridos durante o 1° período.
 ## Contextualização do Projeto 📚
 
 - Uma startup pequena "sofreu" um período de ascenção e aporte financeiro, sendo assim, com tais acontecimentos. Ela contrata um grupo de analistas/desenvolvedores que vão
-  desenvolver um software que ira ajudar com o processo de gerenciamento do das funcionalidades da startup e ajuda com o gerenciamento de clientes também.
+  desenvolver um software que ira ajudar com o processo de gerenciamento das funcionalidades da startup e ajuda com o gerenciamento de clientes também.
 
 ## Funcionalidades do Programa ⚙
 
