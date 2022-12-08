@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1667098367 source:c:\users\kelvy\onedrive\documentos\projeto\c\unip\exercicios faculdade\software pim\softwarepim2\menu.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"Occupation.h"
+	"Resouce.h"
+
+1667098269 c:\users\kelvy\onedrive\documentos\projeto\c\unip\exercicios faculdade\software pim\softwarepim2\occupation.h
+
+1667098884 c:\users\kelvy\onedrive\documentos\projeto\c\unip\exercicios faculdade\software pim\softwarepim2\resouce.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"Occupation.h"
+
+1668873569 source:c:\users\kelvy\onedrive\documentos\projeto\c\unip\exercicios faculdade\software pim\softwarepim\menu.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"Occupation.h"
+	"Resouce.h"
+
+1668873268 c:\users\kelvy\onedrive\documentos\projeto\c\unip\exercicios faculdade\software pim\softwarepim\occupation.h
+
+1668878091 c:\users\kelvy\onedrive\documentos\projeto\c\unip\exercicios faculdade\software pim\softwarepim\resouce.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"Occupation.h"
+
+1669092088 source:c:\users\kelvy\onedrive\documentos\projeto\c\unip\exercicios faculdade\codigo do pim\softwarepim\menu.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"Occupation.h"
+	"Resouce.h"
+
+1668913784 c:\users\kelvy\onedrive\documentos\projeto\c\unip\exercicios faculdade\codigo do pim\softwarepim\occupation.h
+
+1669241930 c:\users\kelvy\onedrive\documentos\projeto\c\unip\exercicios faculdade\codigo do pim\softwarepim\resouce.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"Occupation.h"
+
+1669695009 source:c:\users\kelvy\onedrive\documentos\projeto\c\unip\exercicios faculdade\codigo do pim\codigo do pim\softwarepim\menu.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"Occupation.h"
+	"Resouce.h"
+
+1670133399 c:\users\kelvy\onedrive\documentos\projeto\c\unip\exercicios faculdade\codigo do pim\codigo do pim\softwarepim\occupation.h
+
+1670134622 c:\users\kelvy\onedrive\documentos\projeto\c\unip\exercicios faculdade\codigo do pim\codigo do pim\softwarepim\resouce.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"Occupation.h"
+
+1669695009 source:c:\users\kelvy\onedrive\documentos\projeto\c\unip\faculdade\codigo do pim\softwarepim\menu.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"Occupation.h"
+	"Resouce.h"
+
+1670299027 c:\users\kelvy\onedrive\documentos\projeto\c\unip\faculdade\codigo do pim\softwarepim\occupation.h
+
+1670471585 c:\users\kelvy\onedrive\documentos\projeto\c\unip\faculdade\codigo do pim\softwarepim\resouce.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"Occupation.h"
+
